@@ -13,7 +13,7 @@ install all the requirements.
 
 Import the 'export.sql' file provided into the oracle database.
 
-connect to the oracle databse using ojdbc(ojdbc6.jar) driver provided in the repository. 
+Connect to the oracle databse using ojdbc(ojdbc6.jar) driver provided in the repository. 
 
 ## ScreenShots
 ### Login
