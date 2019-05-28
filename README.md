@@ -1,5 +1,5 @@
 # About
-A hospital Management System developed using oracle database and java frames as front end.
+A Hospital Management System developed using oracle database and java frames for front end.
 
 ## Requirements
 1)Netbeans
@@ -9,11 +9,15 @@ A hospital Management System developed using oracle database and java frames as 
 3)Oracle database
 
 ## Installation
-install all the requirements.
+install the requirements.
 
-Import the 'export.sql' file provided into the oracle database.
+Import the 'export.sql' file provided in the repo, into the oracle database.
 
-Connect to the oracle databse using ojdbc(ojdbc6.jar) driver provided in the repository. 
+Open the hms project folder in netbeans.
+
+Connect to the oracle databse using ojdbc(ojdbc6.jar) driver provided in the repository.
+
+Run the project.
 
 ## ScreenShots
 ### Login
