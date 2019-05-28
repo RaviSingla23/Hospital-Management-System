@@ -3,12 +3,16 @@ A hospital Management System developed using oracle database and java frames as 
 
 ## Requirements
 1)Netbeans
+
 2)java jdk
+
 3)Oracle database
 
 ## Installation
 install all the requirements.
-Import the export.sql file provided into the oracle database.
+
+Import the 'export.sql' file provided into the oracle database.
+
 connect to the oracle databse using ojdbc(ojdbc6.jar) driver provided in the repository. 
 
 ## ScreenShots
